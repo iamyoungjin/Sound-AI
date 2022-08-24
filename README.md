@@ -14,3 +14,5 @@ Study Blog / [Reference](https://www.youtube.com/watch?v=Cf6QFjdU_KY&list=PL7ZVZ
 + VAE-Audio Generation  
 [Study Blog](https://iamyoungjin.github.io/2022/07/04/VAE/) / [Reference](https://www.youtube.com/c/ValerioVelardoTheSoundofAI) / [Data](https://www.kaggle.com/datasets/joserzapata/free-spoken-digit-dataset-fsdd) / [Code](https://github.com/iamyoungjin/Sound-AI/blob/main/VAE-Generating_audio.ipynb)
 
++ d-vector speaker recognition  
+Study Blog / [Paper](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/41939.pdf) / [Data](https://www.kaggle.com/datasets/kongaevans/speaker-recognition-dataset) / [Code](https://github.com/iamyoungjin/d-vector)
